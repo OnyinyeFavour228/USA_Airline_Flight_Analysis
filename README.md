@@ -17,7 +17,7 @@ The following steps were taken
 * Replaced cancellation code letters with their respective cancellation reasons
 * Created columns for name of month and day of the week
 * Ensured all columns are in their appropriate data type
-## Data Analysis ans Insights
+## Data Analysis and Insights
 Using DAX, I created some calculated measures. The following are the insights generated
 * There were over 89,000 cancelled flights out of 5.82 million flights recorded in 2015.
 * 54% of the cancelled flights was as a result of the weather while the remaining percentage of cancelled flights were caused by either the airline, national air system or security.
