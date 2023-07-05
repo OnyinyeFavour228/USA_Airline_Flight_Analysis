@@ -40,11 +40,11 @@ Using DAX, I created some calculated measures. The following are the insights ge
 ![Polish_20230704_131430801](https://github.com/OnyinyeFavour228/USA_Airline_Flight_Analysis/assets/107655675/3832fa48-fe5b-4230-9a77-917d23593324)
 
 
-* Southwest Airline is the most reliable airline by on-time departure.
+* Southwest Airline was the most reliable airline by on-time departure.
 
 ![Polish_20230704_132007184](https://github.com/OnyinyeFavour228/USA_Airline_Flight_Analysis/assets/107655675/d58c8d9b-c0ed-4608-808f-09852254b576)
 
 
-* Virgin America Airline is the least reliable airline by on-time departure.
+* Virgin America Airline was the least reliable airline by on-time departure.
 
 ![Polish_20230704_131804245](https://github.com/OnyinyeFavour228/USA_Airline_Flight_Analysis/assets/107655675/812bb583-3bcb-4840-9c36-c638d0b7b555)
